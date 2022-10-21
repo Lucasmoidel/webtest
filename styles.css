@@ -1,0 +1,37 @@
+html {
+    background: rgb(85, 241, 93);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header{
+    background: rgb(55, 109, 58);
+    padding: 20px;
+    height: 400px;
+    text-align: center;
+}
+ttext {
+    color: white;
+    font-size: 50px;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    color: white;
+    margin: 25;
+}
+footer{
+    position: relative;
+    top: 600;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    opacity: 60%;
+    font-size: 12px;
+    padding: 20px 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+footer a {
+    color: white;
+}
